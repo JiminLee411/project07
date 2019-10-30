@@ -350,7 +350,7 @@ def update_score(request, review_pk):
 
 * **영화 목록**
 
-  ![영화 목록](./image/영화 목록.JPG)
+  ![영화 목록](./image/영화목록.JPG)
 
 * **영화 상세 페이지**
 
