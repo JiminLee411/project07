@@ -334,25 +334,25 @@ def update_score(request, review_pk):
 
 * **회원가입**
 
-  ![회원가입](../project07/image/회원가입.JPG)
+  ![회원가입](./image/회원가입.JPG)
 
 * **로그인**
 
-  ![로그인](../project07/image/로그인.JPG)
+  ![로그인](./image/로그인.JPG)
 
 * **유저 목록**
 
-  ![유저목록](../project07/image/유저목록.JPG)
+  ![유저목록](./image/유저목록.JPG)
 
 * **유저 상세 페이지**
 
-  ![유저상세목록](../project07/image/유저상세목록.JPG)
+  ![유저상세목록](./image/유저상세목록.JPG)
 
 * **영화 목록**
 
-  ![영화 목록](../project07/image/영화 목록.JPG)
+  ![영화 목록](./image/영화 목록.JPG)
 
 * **영화 상세 페이지**
 
-  ![상세페이지](../project07/image/상세페이지.JPG)
+  ![상세페이지](./image/상세페이지.JPG)
 
